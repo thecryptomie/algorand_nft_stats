@@ -3,3 +3,5 @@ Repository for hosting the website used to display statistics for various NFT pr
 
 ### Available Stats
 [M.N.G.O Trait Stats](mngo_stats.html)
+
+[RUGS Trait Stats](rugs_stats.html)
